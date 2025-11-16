@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+seaborn
+opencv-python
+scikit-image
+scikit-learn
+tensorflow
+mlflow
+dvc
+pytest
+flake8
